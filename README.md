@@ -7,7 +7,6 @@
 - 📖 Busco estar **aprendiendo continuamente** para perfeccionar mi perfil académico y profesional.
 - 🙏 **Responsable, comprometido y con determinación** para crecer tanto personal como profesionalmente.
 - 📄 <a href="https://drive.google.com/file/d/15nJXvdc9koa6dyg5rF1UUfAlWxbQV2M4/view?usp=sharing" target="_blank"><b>Mi CV</b></a>
-- 📄 **[Mi CV](https://drive.google.com/file/d/15nJXvdc9koa6dyg5rF1UUfAlWxbQV2M4/view?usp=sharing)**
 
 ## 🛠️ Tech Stack
 <table>
