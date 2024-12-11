@@ -1,29 +1,89 @@
-# **¡Hola :wave:! Bienvenido/a a mi GitHub**
-Estoy cursando **tercer año de la Licenciatura en Sistemas de la UNLa**. Me interesa y entusiasma lo relacionado a este sector. Busco estar **aprendiendo continuamente** para perfeccionar mi perfil académico y profesional. Soy una persona **responsable, comprometida y con determinación** para crecer tanto personal como profesionalmente.
+# **¡Hola <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px>! Bienvenido/a a mi GitHub**
+<img src="https://readme-typing-svg.herokuapp.com?color=%FF0080AA&size=32&width=600&height=50&lines=Maximiliano+Calahorra;Junior+Developer;Estudiante+Lic.+en+Sistemas" alt="Headline"/>
 
-## Tecnologías
-![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![Thymeleaf](https://img.shields.io/badge/Thymeleaf-%23005C0F.svg?style=for-the-badge&logo=Thymeleaf&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![CodeIgniter](https://img.shields.io/badge/CodeIgniter-%23EF4223.svg?style=for-the-badge&logo=codeIgniter&logoColor=white) 
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
-![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
+## 🤳 Sobre mí 
+- 🗺️ **Buenos Aires, Argentina**
+- 🎓 Estudiante de **cuarto año** de la **Licenciatura en Sistemas** de la **Universidad Nacional de Lanús (UNLa)**.
+- 📖 Busco estar **aprendiendo continuamente** para perfeccionar mi perfil académico y profesional.
+- 🙏 **Responsable, comprometido y con determinación** para crecer tanto personal como profesionalmente.
+- 📄 <a href="https://drive.google.com/file/d/15nJXvdc9koa6dyg5rF1UUfAlWxbQV2M4/view?usp=sharing" target="_blank"><b>Mi CV</b></a>
+- 📄 **[Mi CV](https://drive.google.com/file/d/15nJXvdc9koa6dyg5rF1UUfAlWxbQV2M4/view?usp=sharing)**
 
-### Herramientas
-![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important)
-![Code::Blocks](https://img.shields.io/badge/code::blocks-0000AA.svg?&style=for-the-badge&logo=code::blocks&logoColor=white)
+## 🛠️ Tech Stack
+<table>
+    <tr>
+        <td>Backend</td>
+        <td>
+            <img height="40" src="https://skillicons.dev/icons?i=c" title="C"/>
+            <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/codeigniter/codeigniter-plain.svg"/ title="CodeIgniter">
+            <img height="40" src="https://skillicons.dev/icons?i=graphql" title="GraphQL"/>
+            <img height="40" src="https://skillicons.dev/icons?i=hibernate" title="Hibernate"/>
+            <img height="40" src="https://skillicons.dev/icons?i=java" title="Java"/>
+            <img height="40" src="https://skillicons.dev/icons?i=nestjs" title="Nest.js"/>
+            <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" title="PHP"/>
+            <img height="40" src="https://skillicons.dev/icons?i=py" title="Python"/>
+            <img height="40" src="https://skillicons.dev/icons?i=spring" title="Spring"/>
+        </td>
+    </tr>
+    <tr>
+        <td>Frontend</td>
+        <td>
+            <img height="40" src="https://skillicons.dev/icons?i=css" title="CSS"/>
+            <img height="40" src="https://skillicons.dev/icons?i=html" title="HTML"/>
+            <img height="40" src="https://skillicons.dev/icons?i=js" title="JavaSript"/>
+            <img height="40" src="https://skillicons.dev/icons?i=md" title="MarkDown"/>
+            <img height="40" src="https://skillicons.dev/icons?i=ts" title="TypeScript"/>
+        </td>
+    </tr>
+    <tr>
+        <td>Bases de datos</td>
+        <td>
+            <img height="40" src="https://skillicons.dev/icons?i=mysql" title="MySQL"/>
+            <img height="40" src="https://skillicons.dev/icons?i=postgres" title="PostgreSQL"/>
+            <img height="40" src="https://skillicons.dev/icons?i=sqlite" title="SQLite"/>
+        </td>
+    </tr>
+    <tr>
+        <td>IDEs</td>
+        <td>
+            <img height="40" src="https://github.com/user-attachments/assets/c23a957b-c109-4184-945b-98065957c1ca" title="CodeBlocks"/>
+            <img height="40" src="https://skillicons.dev/icons?i=eclipse" title="Eclipse"/>
+            <img height="40" src="https://github.com/user-attachments/assets/6bc5b46d-14bf-4a72-a930-77b8d2d8bb5c" title="Spring Tool Suite"/>
+            <img height="40" src="https://skillicons.dev/icons?i=sublime" title="Sublime Text"/>
+            <img height="40" src="https://skillicons.dev/icons?i=vscode" title="Visual Studio Code"/>
+        </td>
+    </tr>
+    <tr>
+        <td>Control de versiones y despliegue</td>
+        <td>
+            <img height="40" src="https://skillicons.dev/icons?i=apollo" title="Apollo"/>
+            <img height="40" src="https://skillicons.dev/icons?i=docker" title="Docker"/>
+            <img height="40" src="https://skillicons.dev/icons?i=git" title="Git"/>
+            <img height="40" src="https://skillicons.dev/icons?i=github" title="GitHub"/>
+            <img height="40" src="https://skillicons.dev/icons?i=gitlab" title="GitLab"/>
+            <img height="40" src="https://skillicons.dev/icons?i=maven" title="Maven"/>
+            <img height="40" src="https://skillicons.dev/icons?i=nodejs" title="Node.js"/>
+            <img height="40" src="https://skillicons.dev/icons?i=npm" title="NPM"/>
+        </td>
+    </tr>
+    <tr>
+        <td>Testing</td>
+        <td>
+            <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/junit/junit-original.svg" title="JUnit"/>
+            <img height="40" src="https://github.com/user-attachments/assets/b6bd7d15-ef90-44ac-90f5-fdc83063a25d" title="Mockito"/>
+        </td>
+    </tr>
+    <tr>
+        <td>Otras herramientas</td>
+        <td>
+            <img height="40" src="https://skillicons.dev/icons?i=blender" title="Blender"/>
+            <img height="40" src="https://skillicons.dev/icons?i=discord" title="Discord"/>
+            <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/slack/slack-original.svg" title="Slack"/>
+            <img height="40" src="https://skillicons.dev/icons?i=windows" title="Windows"/>
+        </td>
+    </tr>
+</table>
 
-### Redes sociales
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maximiliano-calahorra/)
+## 📨 Medios de contacto
+<a href="mailto:maximilianocalahorra@gmail.com" target="_blank"><img height="40" src="https://skillicons.dev/icons?i=gmail"/></a>
+<a href="https://www.linkedin.com/in/maximiliano-calahorra/" target="_blank"><img height="40" src="https://skillicons.dev/icons?i=linkedin"/></a>
