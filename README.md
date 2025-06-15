@@ -6,7 +6,7 @@
 - 🎓 Estudiante de **cuarto año** de la **Licenciatura en Sistemas** de la **Universidad Nacional de Lanús (UNLa)**.
 - 📖 Busco estar **aprendiendo continuamente** para perfeccionar mi perfil académico y profesional.
 - 🙏 **Responsable, comprometido y con determinación** para crecer tanto personal como profesionalmente.
-- 📄 <a href="https://drive.google.com/file/d/1CDpMlMKpi-KCfIpoDnXJEUR5xfMiSUdG/view?usp=sharing" target="_blank"><b>Mi CV</b></a>
+- 📄 <a href="https://drive.google.com/file/d/1vioiYJWVwKcwcO3OxWlV2kxSVHPDaYIk/view?usp=sharing" target="_blank"><b>Mi CV</b></a>
 
 ## 🛠️ Tech Stack
 <table>
