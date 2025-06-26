@@ -6,7 +6,7 @@
 - 🎓 Estudiante de **cuarto año** de la **Licenciatura en Sistemas** de la **Universidad Nacional de Lanús (UNLa)**.
 - 📖 Busco estar **aprendiendo continuamente** para perfeccionar mi perfil académico y profesional.
 - 🙏 **Responsable, comprometido y con determinación** para crecer tanto personal como profesionalmente.
-- 📄 <a href="https://drive.google.com/file/d/181N5MkxU3Au6vlY2KyyOxsaKGjprAL79/view?usp=sharing" target="_blank"><b>Mi CV</b></a>
+- 📄 <a href="https://drive.google.com/file/d/1eS3bJFd6d5GNf4WukoLUVVqoHl9jxXd2/view?usp=sharing" target="_blank"><b>Mi CV</b></a>
 - 💼 <a href="https://maximilianocalahorra.vercel.app" target="_blank"><b>Mi Portfolio</b></a>
 
 ## 💻 Tech Stack
