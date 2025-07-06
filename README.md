@@ -6,7 +6,7 @@
 - 🎓 Estudiante de **cuarto año** de la **Licenciatura en Sistemas** de la **Universidad Nacional de Lanús (UNLa)**.
 - 📖 Busco estar **aprendiendo continuamente** para perfeccionar mi perfil académico y profesional.
 - 🙏 **Responsable, comprometido y con determinación** para crecer tanto personal como profesionalmente.
-- 📄 <a href="https://drive.google.com/file/d/1eS3bJFd6d5GNf4WukoLUVVqoHl9jxXd2/view?usp=sharing" target="_blank"><b>Mi CV</b></a>
+- 📄 <a href="https://drive.google.com/file/d/17z7zrDlTnDZstGTgJy6YB0RVmZ7fUQNi/view?usp=sharing" target="_blank"><b>Mi CV</b></a>
 - 💼 <a href="https://maximilianocalahorra.vercel.app" target="_blank"><b>Mi Portfolio</b></a>
 
 ## 💻 Tech Stack
@@ -22,8 +22,8 @@
             <img height="40" src="tech-icons/backend/express.svg" title="Express"/>
             <img height="40" src="tech-icons/backend/apollo.svg" title="Apollo"/>
             <img height="40" src="tech-icons/backend/c.svg" title="C"/>
-            <img height="40" src="tech-icons/backend/codeigniter.svg" title="CodeIgniter"/>
-            <img height="40" src="tech-icons/backend/php.svg" title="PHP"/>
+            <img width="40" src="tech-icons/backend/codeigniter.svg" title="CodeIgniter"/>
+            <img width="40" src="tech-icons/backend/php.svg" title="PHP"/>
             <img height="40" src="tech-icons/backend/python.svg" title="Python"/>
         </td>
     </tr>
@@ -35,7 +35,7 @@
             <img height="40" src="tech-icons/frontend/ts.svg" title="TypeScript"/>
             <img height="40" src="tech-icons/frontend/react.svg" title="React"/>
             <img height="40" src="tech-icons/frontend/css.svg" title="CSS"/>
-            <img height="40" src="tech-icons/frontend/tailwind.svg" title="Tailwind"/>
+            <img width="40" src="tech-icons/frontend/tailwind.svg" title="Tailwind"/>
             <img height="40" src="tech-icons/frontend/md.svg" title="Markdown"/>
         </td>
     </tr>
@@ -52,9 +52,9 @@
         <td>🛠️ IDEs</td>
         <td>
             <img height="40" src="tech-icons/IDEs/eclipse.svg" title="Eclipse"/>
-            <img height="40" src="tech-icons/IDEs/sts.png" title="Spring Tool Suite"/>
+            <img width="50" src="tech-icons/IDEs/sts.png" title="Spring Tool Suite"/>
             <img height="40" src="tech-icons/IDEs/vscode.svg" title="Visual Studio Code"/>
-            <img height="40" src="tech-icons/IDEs/codeblocks.png" title="CodeBlocks"/>
+            <img width="40" src="tech-icons/IDEs/codeblocks.png" title="CodeBlocks"/>
             <img height="40" src="tech-icons/IDEs/sublime.svg" title="Sublime Text"/>
         </td>
     </tr>
@@ -73,16 +73,19 @@
     <tr>
         <td>🧪 Testing</td>
         <td>
-            <img height="40" src="tech-icons/testing/junit.svg" title="JUnit"/>
-            <img height="40" src="tech-icons/testing/mockito.png" title="Mockito"/>
+            <img width="40" src="tech-icons/testing/junit.svg" title="JUnit"/>
+            <img width="40" src="tech-icons/testing/mockito.png" title="Mockito"/>
+            <img width="40" src="tech-icons/testing/postman.svg" title="Postman"/>
         </td>
     </tr>
     <tr>
         <td>🧰 Otras herramientas</td>
         <td>
             <img height="40" src="tech-icons/tools/discord.svg" title="Discord"/>
-            <img height="40" src="tech-icons/tools/slack.svg" title="Slack"/>
+            <img width="40" src="tech-icons/tools/slack.svg" title="Slack"/>
             <img height="40" src="tech-icons/tools/windows.svg" title="Windows"/>
+            <img width="40" src="tech-icons/tools/trello.svg" title="Trello"/>
+            <img width="40" src="tech-icons/tools/virtualbox.svg" title="VirtualBox"/>
             <img height="40" src="tech-icons/tools/blender.svg" title="Blender"/>
         </td>
     </tr>
