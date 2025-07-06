@@ -16,13 +16,8 @@
         <td>
             <img height="40" src="tech-icons/backend/java.svg" title="Java"/>
             <img height="40" src="tech-icons/backend/hibernate.svg" title="Hibernate"/>
-            <img height="40" src="tech-icons/backend/spring.svg" title="Spring"/>
-            <img height="40" src="tech-icons/backend/graphql.svg" title="GraphQL"/>
-            <img height="40" src="tech-icons/backend/netsjs.svg" title="NestJS"/>
-            <img height="40" src="tech-icons/backend/express.svg" title="Express"/>
-            <img height="40" src="tech-icons/backend/apollo.svg" title="Apollo"/>
+            <img width="40" src="tech-icons/backend/mongoose.png" title="Mongoose"/>
             <img height="40" src="tech-icons/backend/c.svg" title="C"/>
-            <img width="40" src="tech-icons/backend/codeigniter.svg" title="CodeIgniter"/>
             <img width="40" src="tech-icons/backend/php.svg" title="PHP"/>
             <img height="40" src="tech-icons/backend/python.svg" title="Python"/>
         </td>
@@ -33,10 +28,21 @@
             <img height="40" src="tech-icons/frontend/html.svg" title="HTML"/>
             <img height="40" src="tech-icons/frontend/js.svg" title="JavaScript"/>
             <img height="40" src="tech-icons/frontend/ts.svg" title="TypeScript"/>
-            <img height="40" src="tech-icons/frontend/react.svg" title="React"/>
             <img height="40" src="tech-icons/frontend/css.svg" title="CSS"/>
-            <img width="40" src="tech-icons/frontend/tailwind.svg" title="Tailwind"/>
             <img height="40" src="tech-icons/frontend/md.svg" title="Markdown"/>
+        </td>
+    </tr>
+    <tr>
+        <td>⚙️ Frameworks y librerías</td>
+        <td>
+            <img height="40" src="tech-icons/frameworks/spring.svg" title="Spring"/>
+            <img height="40" src="tech-icons/frameworks/netsjs.svg" title="NestJS"/>
+            <img height="40" src="tech-icons/frameworks/graphql.svg" title="GraphQL"/>
+            <img height="40" src="tech-icons/frameworks/apollo.svg" title="Apollo"/>
+            <img height="40" src="tech-icons/frameworks/express.svg" title="Express"/>
+            <img height="40" src="tech-icons/frameworks/react.svg" title="React"/>
+            <img width="40" src="tech-icons/frameworks/tailwind.svg" title="Tailwind"/>
+            <img width="40" src="tech-icons/frameworks/codeigniter.svg" title="CodeIgniter"/>
         </td>
     </tr>
     <tr>
