@@ -6,7 +6,7 @@
 - 🎓 Estudiante de **cuarto año** de la **Licenciatura en Sistemas** de la **Universidad Nacional de Lanús (UNLa)**.
 - 📖 Busco estar **aprendiendo continuamente** para perfeccionar mi perfil académico y profesional.
 - 🙏 **Responsable, comprometido y con determinación** para crecer tanto personal como profesionalmente.
-- 📄 <a href="https://drive.google.com/file/d/17z7zrDlTnDZstGTgJy6YB0RVmZ7fUQNi/view?usp=sharing" target="_blank"><b>Mi CV</b></a>
+- 📄 <a href="https://drive.google.com/drive/folders/1x-BGCfVDrD4jdMmu51K1MjWS8Undoadq?usp=sharing" target="_blank"><b>Mi CV</b></a>
 - 💼 <a href="https://maximilianocalahorra.vercel.app" target="_blank"><b>Mi Portfolio</b></a>
 
 ## 💻 Tech Stack
@@ -38,6 +38,10 @@
             <img height="40" src="tech-icons/frameworks/spring.svg" title="Spring"/>
             <img height="40" src="tech-icons/frameworks/netsjs.svg" title="NestJS"/>
             <img height="40" src="tech-icons/frameworks/graphql.svg" title="GraphQL"/>
+            <img height="40" src="https://img.shields.io/badge/REST-green" title="API REST"/>
+            <img height="40" src="https://img.shields.io/badge/SOAP-red" title="SOAP"/>
+            <img height="40" src="tech-icons/frameworks/kafka.svg" title="Kafka"/>
+            <img height="40" src="tech-icons/frameworks/grpc.svg" title="gRPC"/>
             <img height="40" src="tech-icons/frameworks/apollo.svg" title="Apollo"/>
             <img height="40" src="tech-icons/frameworks/express.svg" title="Express"/>
             <img height="40" src="tech-icons/frameworks/react.svg" title="React"/>
@@ -82,6 +86,7 @@
             <img width="40" src="tech-icons/testing/junit.svg" title="JUnit"/>
             <img width="40" src="tech-icons/testing/mockito.png" title="Mockito"/>
             <img width="40" src="tech-icons/testing/postman.svg" title="Postman"/>
+            <img width="40" src="tech-icons/testing/swagger.svg" title="Swagger"/>
         </td>
     </tr>
     <tr>
