@@ -1,9 +1,9 @@
 # **¡Hola <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px>! Bienvenido/a a mi GitHub**
-<img src="https://readme-typing-svg.herokuapp.com?color=%FF0080AA&size=32&width=600&height=50&lines=Maximiliano+Calahorra;Junior+Developer;Estudiante+Lic.+en+Sistemas" alt="Headline"/>
+<img src="https://readme-typing-svg.herokuapp.com?color=%FF0080AA&size=32&width=600&height=50&lines=Maximiliano+Calahorra;Trainee+Developer;Estudiante+Lic.+en+Sistemas" alt="Headline"/>
 
 ## 🤳 Sobre mí 
 - 🗺️ **Buenos Aires, Argentina**
-- 🎓 Estudiante de **cuarto año** de la **Licenciatura en Sistemas** de la **Universidad Nacional de Lanús (UNLa)**.
+- 🎓 Estudiante de **quinto año** de la **Licenciatura en Sistemas** de la **Universidad Nacional de Lanús (UNLa)**.
 - 📖 Busco estar **aprendiendo continuamente** para perfeccionar mi perfil académico y profesional.
 - 🙏 **Responsable, comprometido y con determinación** para crecer tanto personal como profesionalmente.
 - 📄 <a href="https://drive.google.com/drive/folders/1x-BGCfVDrD4jdMmu51K1MjWS8Undoadq?usp=sharing" target="_blank"><b>Mi CV</b></a>
@@ -12,41 +12,42 @@
 ## 💻 Tech Stack
 <table>
     <tr>
-        <td>🔧 Backend</td>
+        <td>🔧 Lenguajes de programación</td>
         <td>
-            <img height="40" src="tech-icons/backend/java.svg" title="Java"/>
+            <img height="40" src="tech-icons/languages/java.svg" title="Java"/>
+            <img height="40" src="tech-icons/languages/python.svg" title="Python"/>
+            <img height="40" src="tech-icons/languages/js.svg" title="JavaScript"/>
+            <img height="40" src="tech-icons/languages/ts.svg" title="TypeScript"/>
+        </td>
+    </tr>
+    <tr>
+        <td>⚙️ Backend</td>
+        <td>
+            <img height="40" src="tech-icons/backend/spring.svg" title="Spring Boot"/>
             <img height="40" src="tech-icons/backend/hibernate.svg" title="Hibernate"/>
-            <img width="40" src="tech-icons/backend/mongoose.png" title="Mongoose"/>
-            <img height="40" src="tech-icons/backend/c.svg" title="C"/>
-            <img width="40" src="tech-icons/backend/php.svg" title="PHP"/>
-            <img height="40" src="tech-icons/backend/python.svg" title="Python"/>
+            <img height="40" src="tech-icons/backend/nodejs.svg" title="Node.js"/>
+            <img height="40" src="tech-icons/backend/express.svg" title="Express"/>
+            <img height="40" src="tech-icons/backend/nestjs.svg" title="NestJS"/>
+            <img height="40" src="tech-icons/backend/mongoose.png" title="Mongoose"/>
         </td>
     </tr>
     <tr>
         <td>🎨 Frontend</td>
         <td>
             <img height="40" src="tech-icons/frontend/html.svg" title="HTML"/>
-            <img height="40" src="tech-icons/frontend/js.svg" title="JavaScript"/>
-            <img height="40" src="tech-icons/frontend/ts.svg" title="TypeScript"/>
             <img height="40" src="tech-icons/frontend/css.svg" title="CSS"/>
-            <img height="40" src="tech-icons/frontend/md.svg" title="Markdown"/>
+            <img height="40" src="tech-icons/frontend/react.svg" title="React"/>
         </td>
     </tr>
     <tr>
-        <td>⚙️ Frameworks y librerías</td>
+        <td>🔌 APIs & Comunicación</td>
         <td>
-            <img height="40" src="tech-icons/frameworks/spring.svg" title="Spring"/>
-            <img height="40" src="tech-icons/frameworks/netsjs.svg" title="NestJS"/>
-            <img height="40" src="tech-icons/frameworks/graphql.svg" title="GraphQL"/>
-            <img height="40" src="https://img.shields.io/badge/REST-green" title="API REST"/>
-            <img height="40" src="https://img.shields.io/badge/SOAP-red" title="SOAP"/>
-            <img height="40" src="tech-icons/frameworks/kafka.svg" title="Kafka"/>
-            <img height="40" src="tech-icons/frameworks/grpc.svg" title="gRPC"/>
-            <img height="40" src="tech-icons/frameworks/apollo.svg" title="Apollo"/>
-            <img height="40" src="tech-icons/frameworks/express.svg" title="Express"/>
-            <img height="40" src="tech-icons/frameworks/react.svg" title="React"/>
-            <img width="40" src="tech-icons/frameworks/tailwind.svg" title="Tailwind"/>
-            <img width="40" src="tech-icons/frameworks/codeigniter.svg" title="CodeIgniter"/>
+            <img height="40" src="tech-icons/apis/rest.svg" title="REST"/>
+            <img height="40" src="tech-icons/apis/graphql.svg" title="GraphQL"/>
+            <img height="40" src="tech-icons/apis/apollo.svg" title="Apollo"/>
+            <img height="40" src="tech-icons/apis/soap.svg" title="SOAP"/>
+            <img height="40" src="tech-icons/apis/grpc.svg" title="gRPC"/>
+            <img height="40" src="tech-icons/apis/kafka.svg" title="Kafka"/>
         </td>
     </tr>
     <tr>
@@ -55,7 +56,6 @@
             <img height="40" src="tech-icons/databases/mysql.svg" title="MySQL"/>
             <img height="40" src="tech-icons/databases/mongodb.svg" title="MongoDB"/>
             <img height="40" src="tech-icons/databases/postgresql.svg" title="PostgreSQL"/>
-            <img height="40" src="tech-icons/databases/sqlite.svg" title="SQLite"/>
         </td>
     </tr>
     <tr>
@@ -64,20 +64,16 @@
             <img height="40" src="tech-icons/IDEs/eclipse.svg" title="Eclipse"/>
             <img width="50" src="tech-icons/IDEs/sts.png" title="Spring Tool Suite"/>
             <img height="40" src="tech-icons/IDEs/vscode.svg" title="Visual Studio Code"/>
-            <img width="40" src="tech-icons/IDEs/codeblocks.png" title="CodeBlocks"/>
-            <img height="40" src="tech-icons/IDEs/sublime.svg" title="Sublime Text"/>
         </td>
     </tr>
     <tr>
-        <td>🚀 Control de versiones y despliegue</td>
+        <td>🚀 DevOps & Build Tools</td>
         <td>
-            <img height="40" src="tech-icons/deploy/git.svg" title="Git"/>
-            <img height="40" src="tech-icons/deploy/github.svg" title="GitHub"/>
-            <img height="40" src="tech-icons/deploy/gitlab.svg" title="GitLab"/>
-            <img height="40" src="tech-icons/deploy/maven.svg" title="Maven"/>
-            <img height="40" src="tech-icons/deploy/nodejs.svg" title="Node.js"/>
-            <img height="40" src="tech-icons/deploy/npm.svg" title="NPM"/>
-            <img height="40" src="tech-icons/deploy/docker.svg" title="Docker"/>
+            <img height="40" src="tech-icons/devops/git.svg" title="Git"/>
+            <img height="40" src="tech-icons/devops/github.svg" title="GitHub"/>
+            <img height="40" src="tech-icons/devops/maven.svg" title="Maven"/>
+            <img height="40" src="tech-icons/devops/npm.svg" title="npm"/>
+            <img height="40" src="tech-icons/devops/docker.svg" title="Docker"/>
         </td>
     </tr>
     <tr>
@@ -96,8 +92,6 @@
             <img width="40" src="tech-icons/tools/slack.svg" title="Slack"/>
             <img height="40" src="tech-icons/tools/windows.svg" title="Windows"/>
             <img width="40" src="tech-icons/tools/trello.svg" title="Trello"/>
-            <img width="40" src="tech-icons/tools/virtualbox.svg" title="VirtualBox"/>
-            <img height="40" src="tech-icons/tools/blender.svg" title="Blender"/>
         </td>
     </tr>
 </table>
